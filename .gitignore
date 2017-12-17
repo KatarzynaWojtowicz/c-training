@@ -1,3 +1,10 @@
 # Ignore MacOS Files
 .DS_Store
 *.DS_Store
+
+# Ignore CodeBlocks files
+*.depend
+*.layout
+*.cbp
+[Oo]bj/
+[Bb]in/
